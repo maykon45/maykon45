@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**maykon45/maykon45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e maykon
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou me desenvolvendo na linguagen javaScript
+-utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+![](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
